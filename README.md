@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @geovannaluz
-- 👀 I’m interested in crescer como desenvolvedora.
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me geovannaaluz09@gmail.com
+- 👋 oi, sou @geovannaluz
+- 👀 Eu estou interessada em adquirir conhecimento e crescer como desenvolvedora.
+- 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas
+- 📫 Entre em contato comigo pelo email: geovannaaluz09@gmail.com
 
 
 <!---
